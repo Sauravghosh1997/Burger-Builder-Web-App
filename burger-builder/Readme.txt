@@ -1,0 +1,1 @@
+withErrorHandler is used for global error handling for all components
